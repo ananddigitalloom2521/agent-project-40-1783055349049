@@ -1,0 +1,1 @@
+{"name": "testing-platform", "version": "1.0.0", "scripts": {"start": "node src/index.js"}, "dependencies": {"express": "^4.17.1", "mongoose": "^6.3.5", "dotenv": "^16.0.0"}}
